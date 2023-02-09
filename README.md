@@ -38,7 +38,7 @@ sage "mass of sun"
 sage can be installed with the following one-liner:
 
 ```sh
-curl -sS https://raw.githubusercontent.com/archelaus/sage -o /usr/local/bin/sage
+curl -sS https://raw.githubusercontent.com/archelaus/sage/main/sage -o /usr/local/bin/sage
 ```
    
 ## Configuration
