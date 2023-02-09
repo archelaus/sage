@@ -15,7 +15,8 @@ sage is a CLI assistant that allows you to use OpenAI's GPT-3 models right from 
 
 [Getting started](#getting-started) •
 [Installation](#installation) •
-[Configuration](#configuration)
+[Configuration](#configuration) •
+[To do](#configuration)
 
 </div>
 
