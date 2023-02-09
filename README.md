@@ -52,4 +52,4 @@ sage is summoned
 - `OPENAI_KEY`
 
 [^1]: If you're not sure how to set an environment variable on your shell, check
-out the [wiki][https://github.com/archelaus/sage/wiki/Setting-environment-variables-in-Linux].
+out the [wiki](https://github.com/archelaus/sage/wiki/Setting-environment-variables-in-Linux).
