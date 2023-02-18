@@ -28,7 +28,7 @@ sage is a CLI assistant that allows you to use OpenAI's GPT-3 models right from 
 * [jq](https://stedolan.github.io/jq/)
 * API Key from [OpenAI](https://beta.openai.com/account/api-keys)
 
-![Tutorial](tutorial)
+![Tutorial](tutorial.gif)
 
 ```sh
 sage "mass of sun"
